@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+.Father1{
+    width: 100%;  
+    border: 5px solid rgb(202, 218, 202);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.v1{
+    width: 10%;
+    height: 50px;
+    background-color: black;
+    border: 2px solid blue;
+}
+
+.v2{
+    width: 45%;
+    height: 50px;
+    background-color: rgb(34, 230, 16);
+    border: 2px solid red;
+    transition: .5;
+}
+
+.Father2{
+    width: 100%;  
+    border: 5px solid rgb(213, 230, 213);
+    display: flex;
+    align-items: space-between;
+    flex-wrap: wrap;
+}
+
+.v3{
+    width: 12.5%;
+    height: 50px;
+    background-color: rgb(230, 16, 52);
+    border: 2px solid rgb(179, 255, 0);
+    transition: .5;
+}
+
+.Father3{
+    width: 100%;  
+    border: 5px solid rgb(202, 218, 202);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.v4{
+    width: 60%;
+    height: 150px;
+    background-color: yellow;
+    border: 2px solid blue;
+}
+
+.v5{
+    width: 40%;
+    height: 150px;
+    background-color: rgb(34, 230, 16);
+    border: 2px solid red;
+    transition: .5;
+}
+
+.Father4{
+    width: 100%;  
+    border: 5px solid rgb(202, 218, 202);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.v6{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(10, 10, 9);
+    border: 2px solid blue;
+}
+
+.Father5{
+    width: 100%;  
+    border: 5px solid rgb(202, 218, 202);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.v7{
+    width: 33.33%;
+    height: 160px;
+    background-color: rgb(209, 82, 103);
+    border: 2px solid blue;
+}
+
+.Father6{
+    width: 100%;  
+    border: 5px solid rgb(202, 218, 202);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.v8{
+    width: 20%;
+    height: 160px;
+    background-color: olive;
+    border: 2px solid blue;
+}
+
+.v9{
+    width: 40%;
+    height: 160px;
+    background-color: sandybrown;
+    border: 2px solid magenta;
+    transition: .5;
+}
